@@ -1,1 +1,0 @@
-According to Diff, both files had to be removed.  I believe this is because the .js file allowed for the upload of a file and the .php file interprets the file.  After removing both files, a non admin user can no longer deploy a payload and if they did find a way to make its way to the server through the sight, then there is no way for it to be interpreted.  
